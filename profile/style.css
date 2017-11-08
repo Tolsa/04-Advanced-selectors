@@ -8,8 +8,11 @@ body {
 h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
+  font-size: 40px;
   color: #FBFCFD;
   margin-bottom: -7px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -55,7 +58,7 @@ ul li{
   display: inline;
   padding: 10px 20px 10px 10px;
   margin-left: -10px;
-  color: #FBFCFD;
+  color: #B2BFCB;
 }
 
 /*#profile_pic {
@@ -89,10 +92,11 @@ ul li{
 
 #description {
   width: 500px;
-  color: #FBFCFD;
+  color: #B2BFCB;
   margin-left: -300px;
   margin-top: -40px;
   margin-bottom: 50px;
+  line-height: 21px;
 }
 
 .wrapper {
